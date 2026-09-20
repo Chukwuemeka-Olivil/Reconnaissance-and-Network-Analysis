@@ -70,6 +70,6 @@ A collection of cybersecurity labs focused on reconnaissance, information gather
 
 ## Ethical and Authorized Testing
 
-All reconnaissance and security-testing activities documented in this repository were conducted for educational purposes using publicly available information, controlled laboratory environments, or systems for which testing was authorized.
+All reconnaissance and security-testing activities documented in this repository were conducted for educational purposes using publicly available information, controlled laboratory environments, and systems for which testing was authorized.
 
 No attempt was made to gain unauthorized access, bypass security controls, or disrupt services.
