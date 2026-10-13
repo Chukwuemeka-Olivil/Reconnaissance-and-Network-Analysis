@@ -63,7 +63,7 @@ A collection of cybersecurity labs focused on reconnaissance, information gather
 
 | Project | Focus |
 |---|---|
-| [Reconnaissance and Information Gathering](./Reconnaissance-and-Information-Gathering/) | Ping, DNS, WHOIS, domain analysis and reconnaissance scripting |
+| [Reconnaissance and Information Gathering](./Reconnaissance/) | Ping, DNS, WHOIS, domain analysis and reconnaissance scripting |
 | [Website and Subdomain Enumeration](./Website-and-Subdomain-Enumeration/) | Website technology identification, subdomain discovery and web enumeration |
 | [Port Scanning and Vulnerability Assessment](./Port-Scanning-and-Vulnerability-Assessment/) | Port scanning, service enumeration and vulnerability identification |
 | [Network Traffic and Packet Analysis](./Network-Traffic-and-Packet-Analysis/) | Wireshark, tshark, packet capture, protocol analysis and network security findings |
