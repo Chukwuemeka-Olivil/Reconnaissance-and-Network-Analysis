@@ -68,8 +68,3 @@ A collection of cybersecurity labs focused on reconnaissance, information gather
 | [Port Scanning and Vulnerability Assessment](./Port-Scanning-and-Vulnerability-Assessment/) | Port scanning, service enumeration and vulnerability identification |
 | [Network Traffic and Packet Analysis](./Network-Traffic-and-Packet-Analysis/) | Wireshark, tshark, packet capture, protocol analysis and network security findings |
 
-## Ethical and Authorized Testing
-
-All reconnaissance and security-testing activities documented in this repository were conducted for educational purposes using publicly available information, controlled laboratory environments, and systems for which testing was authorized.
-
-No attempt was made to gain unauthorized access, bypass security controls, or disrupt services.
